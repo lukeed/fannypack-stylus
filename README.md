@@ -21,7 +21,7 @@ Fannypack.Config.stylus = {
   watchTask: true,
   codeTask: true,
   // Any options to pass into gulp-stylus()
-  options: {}.
+  options: {},
   // File extensions to watch
   extensions: ['styl']
 }
