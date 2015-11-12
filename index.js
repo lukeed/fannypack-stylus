@@ -4,7 +4,7 @@ var $         = Fannypack.$
 
 var stylus    = require('gulp-stylus')
 
-module.exports = function(config){
+Fannypack.Tasks['stylus'] = function(config){
   if(!config.stylus) return
 
   var paths = {
