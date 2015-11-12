@@ -1,0 +1,22 @@
+{
+  "name": "fannypack-stylus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": {
+    "name": "Luke Edwards",
+    "email": "luke@lukeed.com",
+    "url": "http://www.lukeed.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukeed/fannypack-stylus.git"
+  },
+  "keywords": ["gulp", "stylus", "css preprocessor", "fannypack", "webpack"],
+  "dependencies": {
+    "gulp-stylus": "^2.1.0"
+  }
+}
